@@ -1,0 +1,35 @@
+product_id,product_name,department
+1,banana,produce
+2,milk,dairy
+3,cereal,breakfast
+4,coffee,beverages
+5,yogurt,dairy
+6,granola,breakfast
+7,bread,bakery
+8,butter,dairy
+9,jam,pantry
+10,cheese,dairy
+11,pasta,pantry
+12,tomato sauce,pantry
+13,parmesan,dairy
+14,olive oil,pantry
+15,chips,snacks
+16,salsa,pantry
+17,soda,beverages
+18,beer,beverages
+19,diapers,baby
+20,baby wipes,baby
+21,baby food,baby
+22,eggs,dairy
+23,bacon,meat
+24,tea,beverages
+25,honey,pantry
+26,cookies,snacks
+27,peanut butter,pantry
+28,apple,produce
+29,chicken,meat
+30,rice,pantry
+31,broccoli,produce
+32,fish,meat
+33,lemon,produce
+34,ham,meat

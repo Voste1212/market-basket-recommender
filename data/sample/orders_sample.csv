@@ -1,0 +1,123 @@
+order_id,product_name
+1,banana
+1,milk
+1,cereal
+1,coffee
+2,banana
+2,milk
+2,cereal
+3,banana
+3,yogurt
+3,granola
+4,bread
+4,butter
+4,jam
+5,bread
+5,butter
+5,cheese
+6,pasta
+6,tomato sauce
+6,parmesan
+7,pasta
+7,tomato sauce
+7,olive oil
+8,chips
+8,salsa
+8,soda
+9,chips
+9,salsa
+9,beer
+10,diapers
+10,baby wipes
+10,milk
+11,diapers
+11,baby wipes
+11,baby food
+12,eggs
+12,bacon
+12,bread
+13,eggs
+13,milk
+13,bread
+14,coffee
+14,milk
+14,cookies
+15,tea
+15,honey
+15,cookies
+16,banana
+16,milk
+16,peanut butter
+17,apple
+17,banana
+17,yogurt
+18,chicken
+18,rice
+18,broccoli
+19,chicken
+19,pasta
+19,tomato sauce
+20,fish
+20,rice
+20,olive oil
+21,banana
+21,cereal
+21,yogurt
+22,bread
+22,cheese
+22,ham
+23,bread
+23,ham
+23,butter
+24,pasta
+24,tomato sauce
+24,parmesan
+24,olive oil
+25,coffee
+25,cookies
+25,milk
+26,tea
+26,honey
+26,lemon
+27,chips
+27,salsa
+27,soda
+28,diapers
+28,baby wipes
+28,baby food
+29,eggs
+29,bacon
+29,cheese
+30,chicken
+30,rice
+30,broccoli
+31,fish
+31,rice
+31,lemon
+32,apple
+32,yogurt
+32,granola
+33,banana
+33,milk
+33,cereal
+34,bread
+34,butter
+34,jam
+35,pasta
+35,tomato sauce
+35,parmesan
+36,coffee
+36,milk
+36,cookies
+37,chips
+37,salsa
+37,soda
+38,diapers
+38,baby wipes
+38,baby food
+39,chicken
+39,rice
+39,broccoli
+40,tea
+40,honey
+40,cookies

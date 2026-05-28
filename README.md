@@ -19,6 +19,20 @@ Rješenje kombinuje:
 
 ---
 
+## Ograničenja i moguća proširenja
+
+Trenutna verzija projekta predstavlja funkcionalan demo sistem preporuka koji radi nad manjim sample skupom podataka. Arhitektura aplikacije je napravljena tako da se sample CSV fajlovi iz foldera `data/sample/` mogu zamijeniti većim javno dostupnim datasetom, kao što je Instacart Market Basket Analysis, ili stvarnim transakcionim podacima online prodavnice.
+
+Moguća proširenja projekta su:
+
+- korišćenje punog Instacart Market Basket Analysis dataseta;
+- treniranje pravog ALS modela nad user-item matricom;
+- evaluacija preporuka pomoću metrika kao što su precision@k, recall@k i MAP@k;
+- poređenje sa jednostavnim baseline pristupom, npr. preporukom najprodavanijih proizvoda;
+- povezivanje sistema sa realnim e-commerce ili ERP sistemom;
+- korišćenje stvarnih poslovnih marži umjesto demo vrijednosti;
+- automatsko periodično ponovno treniranje modela na novim transakcijama.
+
 ## 1. Pokretanje lokalno
 
 ```bash

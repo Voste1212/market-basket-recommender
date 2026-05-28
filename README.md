@@ -1,5 +1,10 @@
 # Market Basket Recommender — “Šta još da kupim?”
 
+## Live demo
+
+Aplikacija je dostupna na:
+https://market-basket-recommender-dhp6f3yrzdhja23cvcxjtp.streamlit.app
+
 Projekat implementira sistem preporuka za online prodavnicu. Korisnik unosi proizvode koji su trenutno u korpi, a aplikacija vraća dodatne proizvode koje bi vjerovatno trebalo kupiti zajedno sa njima.
 
 Rješenje kombinuje:

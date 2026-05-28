@@ -62,7 +62,12 @@ class RecommendationEngine:
                 columns=["antecedents", "consequents", "support", "confidence", "lift"]
             )
 
-        rules = association_rules(frequent_itemsets, metric="confidence", min_threshold=self.min_confidence)
+        rules = association_rules(
+    frequent_itemsets,
+    num_itemsets=len(frequent_itemsets),
+    metric="confidence",
+    min_threshold=self.min_confidence
+)
         rules = rules[rules["lift"] >= self.min_lift].copy()
         rules["antecedent_len"] = rules["antecedents"].apply(len)
         rules["consequent_len"] = rules["consequents"].apply(len)
